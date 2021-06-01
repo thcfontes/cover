@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Thiago Fontes'
-description: 'I am DevOps Engineer and Ethical Hacker Enthusiast'
+description: 'DevOps Engineer and Ethical Hacker Enthusiast'
 
 # Images
 avatar: 'IMG-0298.JPG'
@@ -33,7 +33,7 @@ github-user: 'thcfontes'
 #vk: 'myvk'
 #blog_url: 'myblog.blog.com'
 email: 'thcfontes@gmail.com'
-messenger: 'myfbchat'
+#messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
