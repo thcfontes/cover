@@ -6,7 +6,7 @@ title: 'Thiago Fontes'
 description: 'DevOps Engineer and Ethical Hacker Enthusiast'
 
 # Images
-avatar: 'IMG-0298.JPG'
+avatar: 'miniaturas2.JPG'
 background: 'bgdark.jpg'
 favicon: 'favicon.ico'
 
@@ -21,6 +21,7 @@ linkedin: 'thiagocfontes'
 github-user: 'thcfontes'
 #gitlab-user: ''
 #codepen: ''
+docker-hub: 'thcfontes'
 #steam: ''
 #soundcloud: ''
 #lastfm: ''
@@ -35,7 +36,7 @@ github-user: 'thcfontes'
 email: 'thcfontes@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, docker-hub, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Yaml manifest of supported social links
 # Requirements:
@@ -63,6 +64,9 @@ social-links:
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
+    
+  - name: docker-hub
+    url-pattern: https://hub.docker.com/u/__USERNAME__
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
