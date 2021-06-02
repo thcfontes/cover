@@ -66,7 +66,7 @@ social-links:
     url-pattern: twitter.com/__USERNAME__
     
   - name: docker-hub
-    url-pattern: https://hub.docker.com/u/__USERNAME__
+    url-pattern: hub.docker.com/u/__USERNAME__
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
